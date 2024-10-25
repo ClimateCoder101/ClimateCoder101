@@ -11,6 +11,5 @@ EcoAcademy is dedicated to educating and empowering individuals about environmen
 
 -Thankyou to Edstart for a $1500 grant on EcoAcademy
 
-##Thankyou
 
 
