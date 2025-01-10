@@ -4,7 +4,7 @@
 I am ClimateCoder101
 
 What I'm working on:
-- [EcoAcademy] (https://github.com/EcoAcademy/EcoAcademy)
+- [EcoAcademy](https://github.com/EcoAcademy/EcoAcademy)
 - Raspberry Pi Code
 
 
