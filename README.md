@@ -7,14 +7,15 @@ What I'm working on:
 - [EcoAcademy](https://github.com/EcoAcademy/EcoAcademy)
 - Raspberry Pi Coding
 
-
+What I'm interested in:
+- Games
+- 3D Modeling
+- Raspberry Pi Development (Robots)
+  
 ## EcoAcademy 🌏
 
 EcoAcademy is dedicated to educating and empowering individuals about environmental sustainability.
 Our mission is to inspire students, teachers, and parents to make eco-friendly choices that positively impact our planet.
 
-- Thankyou to Edstart for a $1500 grant on EcoAcademy
-- 
-
-
+Please consider stargazing at [EcoAcademy](https://github.com/EcoAcademy/ecoAcademy)
 
